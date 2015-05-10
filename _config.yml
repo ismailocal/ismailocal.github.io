@@ -1,4 +1,4 @@
-title: İsmail Öcal
+title: İSMAİL ÖCAL
 description: İsmail Öcal'ın Kişisel Blogu
 
 url: http://ismailocal.github.io
@@ -11,10 +11,8 @@ highlighter: pygments
 paginate: 5
 
 navigation:
- - title: Ana Sayfa
-   url: /
- - title: Hakkımda
-   url: /about
+ - title: Home
+   url: /index.html
 
 social:
    github: ismailocal
