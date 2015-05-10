@@ -2,6 +2,7 @@
 layout: post
 title:  "Example Post Formatting" 
 date:   2014-12-15
+comments: true
 ---
 
 <p class="intro">Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
