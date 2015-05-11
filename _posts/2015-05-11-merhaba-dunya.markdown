@@ -30,4 +30,4 @@ Ee bunu da yazdık şimdi ne yazmamız lazım gelir.
 Geneli itibariyle yaptığımız işlerde Back-end'ci olarak görev alsam da şu sıralar Front-end üzerine ciddi manada yoğunlaşmış vaziyetteyim. Paylaşımlarım da çoğunlukla yazılım üzerine, artık o an yazılımın ne tarafıyla meşgul isem öğrendiğim yeni şeylerin not olarak buraya geçmesi üzerine olacak. Bazen de saçmalarım heralde bişeyler. Belki de çoğunlukla. Söz veremem.
 </p>
 
-<p>/* Kime söz veremiyorsam ki acaba, sanki 80 milyon beni okuyor şuan te allam */</p>
+<p>/* Kime söz veremiyorsam ki acaba, sanki 80 milyon beni okuyor şuan te allam havalara bak */</p>
