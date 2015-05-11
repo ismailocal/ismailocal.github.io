@@ -740,7 +740,6 @@ a:hover {
     text-decoration: none;
     padding: 5px 1px;
     font-size: 18px;
-    border-bottom: 2px solid #ddd;
 }
 .nav-collapse ul li a:hover {
     border-color: black;
@@ -816,10 +815,31 @@ dd {
     display: block;
     clear: both
 }
+
+.header .container .left {
+	float:left;
+	margin-top:5px;
+	position:relative;
+	width: 40px;
+	height: 40px;
+	overflow:hidden;
+	border-radius: 100%;
+	border:4px solid #fff;
+	margin-right: 10px;
+    margin-left: 2rem;
+}
+
+.header .container .left img {
+	position:absolute;
+	top:-10px;
+}
+
+.header .container .right {
+	float:left;
+}
 .header h1 {
     float: left;
     margin: 0;
-    padding-left: 2rem;
     font-size: 1em;
     line-height: 3em;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -831,8 +851,8 @@ dd {
 }
 .motto{
     line-height: 3em;
-	padding-right:2rem;
-	float:right;
+	padding-left:2rem;
+	float:left;
 }
 .post .postTitle {
     margin-top: 2rem;
@@ -1121,11 +1141,13 @@ dd {
     	border-radius: 100%;
     	border:4px solid #fff;
     	margin-right: 10px;
+    	margin-left: 0;
+    	margin-top: 0;
     }
 
     .header .container .left img {
     	position:absolute;
-    	top:-10px;
+    	top:-15px;
     }
 
     .header .container .right {
@@ -1148,6 +1170,7 @@ dd {
 	.motto{
 		float:none;
         line-height: 2em;
+		padding-left:2px;
 	}
     .header nav {
         float: left;
