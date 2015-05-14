@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Merhaba Dünya" 
-keywords: "merhaba, dünya, merhaba dünya"
-date:   2015-05-11
+layout	: post
+title 	: "Merhaba Dünya"
+desc	: "Blok için ilk yazı, Merhaba Dünya!"
+keyw	: "merhaba, dünya, merhaba dünya"
+date	: 2015-05-11
 comments: true
 ---
 <p>
