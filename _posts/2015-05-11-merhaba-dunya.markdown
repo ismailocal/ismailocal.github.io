@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Merhaba Dünya" 
+description: "Bloğum için ilk yazı, Merhaba Dünya"
+keywords: "merhaba, dünya, merhaba dünya"
 date:   2015-05-11
 comments: true
 ---
